@@ -1,0 +1,47 @@
+What is/are the game mechanics?
+Who is the player?
+What is the story/point?
+What will it look like?
+
+MECHANICS:
+    Spirit stones: Containing objects or powers, allow you to fight or avoid fighting
+        STONES:
+            - Item Stones: Allow you to store an item, no matter how big, once an item is sealed there it cannot be changed, you can summon copies of an item as long as you still have spirit power
+                - Axe: Allows the player to destroy things (and fight enemies if they are expierienced enough)
+                - Spirit Lantern: Light up the way and has a chance to calms down agitated spirits
+                - Sword: Allows the player to fight easily 
+                - Provisions: A special magic stone used to store bags with magic provisions, they can restore health and spirit power faster, but everytime they are used their effectivness decresses, can also calm down hungry spirits
+            - Magic Stones: Allow user to use spells without the usual drawbacks, can only seal one spell
+                - Pyro: Fire magic, effective for fighting and destroying but not everything is flammable after all 
+                - Cryo: Frezze your enemies, but only if they are wet or contain water
+                - Calming: Calm down any agitated entity, doesn't work on entities that attack out of anything other than agatation or anger
+                - Lullaby: Make your enemies fall asleep, but only if they can hear the Lullaby
+    Stealth: Hide from any foes and evade them
+    Fighting: Fight your enemies to clear the way
+    Magic: Can be used in various ways, but using spells drains your spirit power and can drain your health if failed (chance of failing dependend on the amount of spirit power)
+    Spirit Power: Power allowing you to use magic and spirit stones, can be restored by special provisions, idly by resting or by destroing spirits 
+    Special Afflictions: Entities might also use magic, watch out for curses and weird statuses
+    Respawn: Each death or "ending" activates Time Stone, which can't be used otherwise by the player, and brings them back to the cabin at the start, all found items go back with the player
+    Masks: Each ending gives the player a unique Masks
+
+
+SETTING:
+The Player is kid living alongside his master/teacher/mentor in the spirit forest, one day the old man goes on to investigate and abandoned tower and doesn't come back. The player must go to the tower to look for their mentor and to see what exactly is hidden within the ruins of the building.
+
+ENEMIES:
+    - Enemy Traits:
+        - Deaf: Lullaby doesn't work on it
+        - Angry: Can be calmed down by Calming or Spirit Lantern
+        - Hungry: Can be appeased by food
+        - Blind: Can't be blinded by Pyro or Spirit Lantern
+    - Enemy Types
+        - Elemental: Water/Fire/Plants/Stone/Earth etc., regular enemies
+        - Spirits: Bosses/MiniBosses
+        - Non self-conscious entities: Animals and objects affected by spirits
+
+LEVEL/STAGE DESIGN:
+    - Tower: Main Stage where enemies reside
+        - Hallways: Most enemies and obstacles are there
+        - Rooms: Eaither containing story or items, sometimes necessary for progression
+    - Cabin: Starting stage for preparation
+    - Training Grounds: Place where tutorial takes place
